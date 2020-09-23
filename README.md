@@ -17,4 +17,3 @@ Afin de lancer le projet et d'avoir votre API qui tourne, lancez simplement la c
 ```bash
 yarn docker:dev
 ```
-# expressTodo
